@@ -1,0 +1,7 @@
+cores:
+preto escuro background e palavras dentro do box: #413d3d;
+branco box: #f4f4f4
+vermelho btn stop: #f51441
+azul btn start: #68A039
+amarelo btn reset: #ffc55f
+azul btn marcar: #2196F3
